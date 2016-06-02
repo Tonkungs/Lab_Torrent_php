@@ -1,0 +1,14 @@
+{
+    "name": "1_torrent/searchcomputer",
+    "description": "Search Computer Name",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tonkung",
+            "email": "ton_naruto_v.2@hotmail.com"
+        }
+    ],
+    "require": {
+        "linfo/linfo": "^3.0"
+    }
+}
